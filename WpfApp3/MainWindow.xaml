@@ -10,7 +10,7 @@
         <Button Content="ok" HorizontalAlignment="Left" Margin="48,163,0,0" VerticalAlignment="Top" Height="53" Width="160"/>
         <Label Content="Введите имя" HorizontalAlignment="Left" Margin="48,41,0,0" VerticalAlignment="Top" Height="37" Width="130" FontSize="16"/>
         <TextBox HorizontalAlignment="Left" Margin="48,83,0,0" TextWrapping="Wrap" Text="имя" VerticalAlignment="Top" Width="120" FontSize="16"/>
-        <Button Content="перейти" HorizontalAlignment="Left" Margin="313,172,0,0" VerticalAlignment="Top" Height="34" Width="77"/>
+        <Button Content="перейти" HorizontalAlignment="Left" Margin="313,172,0,0" VerticalAlignment="Top" Height="34" Width="77" Click="Button_Click"/>
 
     </Grid>
 </Window>
